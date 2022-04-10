@@ -3,4 +3,6 @@ pi = float (3.14)
 
 result = pi * raio
 
-print ('Resultado:', result)
+print ('\nResultado:', result, 'cm')
+
+print ('Vlw ae por usar :)')
